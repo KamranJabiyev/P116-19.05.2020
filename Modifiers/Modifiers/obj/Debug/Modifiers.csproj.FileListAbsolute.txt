@@ -1,0 +1,6 @@
+E:\P116\Modifiers\Modifiers\bin\Debug\Modifiers.exe.config
+E:\P116\Modifiers\Modifiers\bin\Debug\Modifiers.exe
+E:\P116\Modifiers\Modifiers\bin\Debug\Modifiers.pdb
+E:\P116\Modifiers\Modifiers\obj\Debug\Modifiers.csprojAssemblyReference.cache
+E:\P116\Modifiers\Modifiers\obj\Debug\Modifiers.exe
+E:\P116\Modifiers\Modifiers\obj\Debug\Modifiers.pdb
